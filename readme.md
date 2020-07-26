@@ -4,7 +4,7 @@
 </p>
 
 
-<p>I'm  Being a self-taught web developer from Ghana. I'm keen on building simple, responsive and scalable web sites and applications. I've a interest in php, wordpress, laravel and i've started learning javascript. </p>
+<p>I'm a self-taught web developer from Ghana. I'm keen on building simple, responsive and scalable web sites and applications. I've a interest in php, wordpress, laravel and i've started learning javascript. </p>
 
 
 - I Live in Ghana.
