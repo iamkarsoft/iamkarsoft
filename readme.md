@@ -9,8 +9,9 @@
 
 - I Live in Ghana.
 - My stack is PHP(laravel, wordpress)
+- I'm currently learning Javascript
 - I'm the other half of [kamalnet.work](https://kamalnet.work)
-- I'm currently seeking to improve my knowledge in javascript, php
+- Always seeking to improve my knowledge in javascript, php
 - Fascinated by minimalism
 - Fun fact: I dance Kizomba , love Manchester United, Dortmund and a big fan of Sergio Ramos
 - Really approachable, [@iamkarsoft](https://twitter.com/iamkarsoft)
