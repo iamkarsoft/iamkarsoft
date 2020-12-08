@@ -15,3 +15,7 @@
 - Fascinated by minimalism
 - Fun fact: I dance Kizomba , love Manchester United, Dortmund and a big fan of Sergio Ramos
 - Really approachable, [@iamkarsoft](https://twitter.com/iamkarsoft)
+
+
+
+<figure><embed src="https://wakatime.com/share/@iamkarsoft/5518fbeb-8490-4e7d-8bc8-d86200428fa9.svg"></embed></figure>
