@@ -17,5 +17,4 @@
 - Really approachable, [@iamkarsoft](https://twitter.com/iamkarsoft)
 
 
-
-<figure><embed src="https://wakatime.com/share/@iamkarsoft/5518fbeb-8490-4e7d-8bc8-d86200428fa9.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@iamkarsoft/6b4ac03f-0a3d-48fa-91f3-2ef56e133b46.png" /></a>
