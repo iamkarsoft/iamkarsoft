@@ -16,5 +16,9 @@
 - Fun fact: I dance Kizomba , love Manchester United, Dortmund and a big fan of Sergio Ramos
 - Really approachable, [@iamkarsoft](https://twitter.com/iamkarsoft)
 
+### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
 
+![Metrics](https://metrics.lecoq.io/iamkarsoft?template=classic&config.timezone=UTC&config.animated=true)  
+  
+ ### Wakatime Metrics from  [wakatime.com](https://wakatime.come)
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@iamkarsoft/6b4ac03f-0a3d-48fa-91f3-2ef56e133b46.png" /></a>
