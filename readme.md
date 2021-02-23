@@ -15,7 +15,11 @@
 - Fascinated by minimalism
 - Fun fact: I dance Kizomba , love Manchester United, Dortmund and a big fan of Sergio Ramos
 - Really approachable, [@iamkarsoft](https://twitter.com/iamkarsoft)
+  
+### Spotify  
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ik0xhywl2l83eb7eg7t0unk4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+ 
 ### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
 
 ![Metrics](https://metrics.lecoq.io/iamkarsoft?template=classic&config.timezone=UTC&config.animated=true)  
