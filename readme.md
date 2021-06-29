@@ -3,6 +3,8 @@
 	<a href="https://kofi.work">Kofi.work</a> <a href="https://kamalnet.work">kamalnet.work</a> <a href="https://edwuma.work">edwuma.work</a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=iamkarsoft&color=green)
+![](https://hit.yhype.me/github/profile?user_id=5146869)
 
 <p>I'm a self-taught web developer from Ghana. I'm keen on building simple, responsive and scalable web sites and applications. I've an interest in php, wordpress, laravel and i've started learning javascript. </p>
 
