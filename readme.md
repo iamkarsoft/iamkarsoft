@@ -21,5 +21,6 @@
  
   
   
- ### Wakatime Metrics from  [wakatime.com](https://wakatime.come)
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@iamkarsoft/6b4ac03f-0a3d-48fa-91f3-2ef56e133b46.png" /></a>
+ ### Wakatime Metrics from  [wakatime.com](https://wakatime.com)
+ [![Anubis Lockward's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@iamkarsoft)](https://github.com/iamkarsoft/)
+
