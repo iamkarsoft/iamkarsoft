@@ -7,7 +7,7 @@
 
 
 - I Live in Ghana.
-- My stack is PHP(laravel, wordpress)
+- My stack is PHP(laravel, Wordpress, vuejs)
 - I'm currently learning Javascript
 - I'm the other half of [kamalnet.work](https://kamalnet.work)
 - Always seeking to improve my knowledge in javascript, php
