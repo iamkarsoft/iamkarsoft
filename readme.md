@@ -19,7 +19,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ik0xhywl2l83eb7eg7t0unk4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamakrsoft)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamakrsoft&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
   
 ### Wakatime Metrics from  [wakatime.com](https://wakatime.com)
