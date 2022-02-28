@@ -8,10 +8,6 @@
 ### Spotify
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6ik0xhywl2l83eb7eg7t0unk4&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
-### Streak
-##[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iamkarsoft&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-  
 ### Wakatime Metrics from  [wakatime.com](https://wakatime.com)
  [![Anubis Lockward's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@iamkarsoft)](https://github.com/iamkarsoft/)
 
