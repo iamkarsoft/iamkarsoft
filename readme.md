@@ -7,6 +7,6 @@
 
 
 ### Spotify
-[![spotify-github-profile](https://https://spotify-github-profile.kittinanx.com/api/view?uid=6ik0xhywl2l83eb7eg7t0unk4&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6ik0xhywl2l83eb7eg7t0unk4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 
