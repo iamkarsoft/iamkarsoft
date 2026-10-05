@@ -3,7 +3,15 @@
 	<a href="https://kofi.work">Kofi.work</a> <a href="https://kamalnet.work">kamalnet</a> <a href="https://edwuma.work">edwuma</a> <a href="https://movies.banditconsult.dev">Movie App</a>
 </p>
 
-<p>I'm a self-taught web developer from Ghana using Vue JS, Laravel and Wordpress. Loves dancing Kizomba ,watching Football(Man Utd, Dortmund, Napoli) and Formula 1</p>
+<p>Self-taught full-stack engineer from Ghana with 6+ years of experience building Laravel, Vue.js, and Shopify applications for international clients across a wide range of industries. My work spans multi-tenant e-commerce platforms, payment and settlement systems, admin analytics engines, and travel-booking applications — contributing extensively across dozens of repositories throughout my career</p>
+
+<p>
+I run a consultancy where I ship Laravel SaaS tools and open-source packages, and I'm comfortable working across the full stack — from architecting backend systems to crafting polished frontend experiences. I thrive in remote environments, have a strong track record of third-party integrations, care deeply about accessibility, and enjoy modernizing legacy codebases without breaking what already works.	
+</p>
+
+<p>
+When I'm not writing code, you'll find me on the dance floor enjoying Kizomba, passionately following football — supporting Manchester United, Borussia Dortmund, and Napoli — or glued to the latest Formula 1 race. I believe the same focus and discipline that makes a great race or a clean codebase also makes for a pretty good dance partner.	
+</p>
 
 
 ### Spotify
