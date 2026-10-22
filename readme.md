@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm Kofi Ramos (Romain Amoussou)</h3>
 <p align="center">
-	<a href="https://kofi.work">Kofi.work</a> <a href="https://kamalnet.work">kamalnet</a> <a href="https://edwuma.work">edwuma</a> <a href="https://movies.banditconsult.dev">Movie App</a>
+<a href="https://banditconsult.dev">bandit consult</a>	<a href="https://kofi.work">Personal Site</a> <a href="https://kamalnet.work">Kamal Network</a> <a href="https://edwuma.work">Edwuma HR</a> <a href="https://movies.banditconsult.dev">Movie App</a>
 </p>
 
 <p>Self-taught full-stack engineer from Ghana with 6+ years building Laravel, Vue.js, Shopify, and WordPress applications for international clients, from multi-tenant e-commerce to payment systems. Through my consultancy, I build web apps and ship Laravel SaaS tools and open-source packages, with a focus on third-party integrations, accessibility, and modernizing legacy code safely. Outside code: Kizomba, football, and F1.</p>
