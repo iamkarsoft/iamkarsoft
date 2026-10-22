@@ -5,6 +5,7 @@
 
 <p>Self-taught full-stack engineer from Ghana with 6+ years building Laravel, Vue.js, Shopify, and WordPress applications for international clients, from multi-tenant e-commerce to payment systems. Through my consultancy, I build web apps and ship Laravel SaaS tools and open-source packages, with a focus on third-party integrations, accessibility, and modernizing legacy code safely. Outside code: Kizomba, football, and F1.</p>
 
+ ![Profile Views](https://komarev.com/ghpvc/?username=iamkarsoft&color=6366f1&style=for-the-badge)
 
 
 ### Spotify
